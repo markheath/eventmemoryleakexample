@@ -1,0 +1,9 @@
+syntax:glob
+*.user
+*.orig
+*.suo
+_ReSharper*
+packages/*
+bin/*
+obj/*
+TestResults/*
